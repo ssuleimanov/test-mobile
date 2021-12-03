@@ -22,7 +22,7 @@ public class RegistrationTest extends BaseTest {
 
         regSetPhoneScreen.enterPhoneAndClickConfirm("996593834").
                           enterOtpAndClickOnConfirmButton("123456").
-                          enterPasswordAndLogin("Aval-2022");
+                          enterPasswordAndLogin("Aval-2023");
 
     }
 }
