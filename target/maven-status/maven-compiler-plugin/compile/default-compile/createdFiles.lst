@@ -1,0 +1,9 @@
+ua/pivdenny/pionmobile/ui/BaseScreen.class
+ua/pivdenny/pionmobile/ui/screens/RegOtpScreen.class
+ua/pivdenny/pionmobile/ui/screens/RegSetPassInputScreen.class
+ua/pivdenny/pionmobile/utils/ProjectPropertiesLoader.class
+ua/pivdenny/pionmobile/ui/screens/RegSetPhoneScreen.class
+ua/pivdenny/pionmobile/ui/screens/RegSetCardScreen.class
+ua/pivdenny/pionmobile/utils/ProjectProperties.class
+ua/pivdenny/pionmobile/ui/screens/AuthWithPassScreen.class
+ua/pivdenny/pionmobile/ui/screens/RegSetPassRepeatScreen.class
